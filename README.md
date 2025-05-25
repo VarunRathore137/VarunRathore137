@@ -1,6 +1,7 @@
 # 💫 About Me:
 ## Hii, I am Varun Rathore- <br>
 
+👨🏻‍💻 Quantum Algorithm Developer Intern <br>
 ☯️ Quantum Computing Dev. <br>
 🎲 Quantum Physics learner. <br>
 💡 Research Enthusiast. <br>
