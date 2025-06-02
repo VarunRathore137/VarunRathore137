@@ -19,7 +19,10 @@ Brief introduction about me: I am a- <br>
 • 📫 How to reach me varunrathoreonwork@gmail.com. <br>
 • 📄 View my resume [here](https://drive.google.com/file/d/1DvLBJda6SRnfgCO8FGW71A9nZ2YfWm4G/view?usp=sharing)
 <br>
-I have YouTube channel as well as an Instagram page in which I share content about related to Physics, Quantum Computing and many more. <br>
+<br>
+I have [YouTube channel](https://www.youtube.com/channel/UCJjtofyRDijfGnczXKHRIcA) as well as an [Instagram page](https://www.instagram.com/cosmic.caffe/) in which I share content about related to Physics, Quantum Computing and many more. <br>
+<br>
+
 Here are my handles: <br>
 
 
