@@ -5,15 +5,19 @@
 ![ezgif-6f200f6e562577](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70) <br>
 
 Brief introduction about me: I am a- <br>
-☯️ A Quantum Computing Dev. <br>
-🎲 A Quantum Physics learner. <br>
-💡 A Research Enthusiast. <br>
-🎙️ A Science Communicator. <br>
-🔗 A Quantum Secure Communication. <br>
 
-💻 I am currently working on Quantum Teleportation Experiment. <br>
-🫱🏻‍🫲🏻 I am looking to collaborate on quantum repositories exploring different approaches of quantum computing. <br>
-💬 Discuss with me about Physics, I love that. <br>
+• ☯️ A Quantum Computing Dev. <br>
+• 🎲 A Quantum Physics learner. <br>
+• 💡 A Research Enthusiast. <br>
+• 🎙️ A Science Communicator. <br>
+• 🔗 A Quantum Secure Communication. <br>
+
+• 🌱 I am currently learning **Quantum Teleportation Experimen, Quantum Optimization and Quantum Optics**. <br>
+• 🧑‍🤝‍🧑 I am looking to collaborate on quantum repositories exploring different approaches of quantum computing. <br>
+• 🫱🏻‍🫲🏻 I’m looking for help with Quantum Computing, Quantum Optics and Quantum Teleportation Research Internships and Projects. <br>
+• 🧠 Discuss with me about Physics, I love that. <br>
+• 📫 How to reach me varunrathoreonwork@gmail.com.
+📄 View my resume [here](https://drive.google.com/file/d/1DvLBJda6SRnfgCO8FGW71A9nZ2YfWm4G/view?usp=sharing)
 <br>
 I have YouTube channel as well as an Instagram page in which I share content about related to Physics, Quantum Computing and many more. <br>
 Here are my handles: <br>
