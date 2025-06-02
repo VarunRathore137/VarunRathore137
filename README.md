@@ -4,13 +4,12 @@
 
 ![ezgif-6f200f6e562577](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70) <br>
 
-Brief introduction about me:<br>
-
-☯️ Quantum Computing Dev. <br>
-🎲 Quantum Physics learner. <br>
-💡 Research Enthusiast. <br>
-🎙️ Science Communicator. <br>
-🔗 Quantum Secure Communication. <br>
+Brief introduction about me: I am a- <br>
+☯️ A Quantum Computing Dev. <br>
+🎲 A Quantum Physics learner. <br>
+💡 A Research Enthusiast. <br>
+🎙️ A Science Communicator. <br>
+🔗 A Quantum Secure Communication. <br>
 
 💻 I am currently working on Quantum Teleportation Experiment. <br>
 🫱🏻‍🫲🏻 I am looking to collaborate on quantum repositories exploring different approaches of quantum computing. <br>
