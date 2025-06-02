@@ -12,7 +12,7 @@ Brief introduction about me: I am a- <br>
 • 🎙️ A Science Communicator. <br>
 • 🔗 A Quantum Secure Communication. <br>
 
-• 🌱 I am currently learning **Quantum Teleportation Experimen, Quantum Optimization and Quantum Optics**. <br>
+• 🌱 I am currently learning **Quantum Teleportation Experiment, Quantum Optimization and Quantum Optics**. <br>
 • 🧑‍🤝‍🧑 I am looking to collaborate on quantum repositories exploring different approaches of quantum computing. <br>
 • 🫱🏻‍🫲🏻 I’m looking for help with Quantum Computing, Quantum Optics and Quantum Teleportation Research Internships and Projects. <br>
 • 🧠 Discuss with me about Physics, I love that. <br>
@@ -34,8 +34,7 @@ medium.com/@VarunRathore137) [![X](https://img.shields.io/badge/X-black.svg?logo
 
 # 💻 Tech Stack:
 ![QISKIT]![68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763535a2d35712d736d33736b5655556b587566554f3864674c376333424d55356157764d794252442d4d33726f422d6e4337457a503](https://github.com/user-attachments/assets/513241c5-797c-4ad8-a8c7-bb70cfa12f50)
-] ![PENNYLANE]![68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46596d43777071574941415f4555552e6a70673a6c61726765](https://github.com/user-attachments/assets/436bd25a-e782-4610-b0f5-af13b7aea900)
-!
+] ![PENNYLANE]
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
