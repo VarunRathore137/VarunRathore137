@@ -4,6 +4,7 @@
 
 ![ezgif-6f200f6e562577](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70) <br>
 
+Brief introduction about me:<br>
 
 ☯️ Quantum Computing Dev. <br>
 🎲 Quantum Physics learner. <br>
