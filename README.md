@@ -2,9 +2,7 @@
 
 Quantum Algorithm Developer at EGREEN QUANTA LLM <br>
 <br>
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3634302f666f726d61743a776562702f312a636e6f31755f474f62326c4175544d6d472d653134672e676966](https://github.com/user-attachments/assets/01004963-ef63-4e47-856b-6c0464d06354)  ![ezgif-6f200f6e562577](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70)
-
-![Alt Text for GIF 1]([URL_of_GIF_1](https://github.com/user-attachments/assets/01004963-ef63-4e47-856b-6c0464d06354)) ![Alt Text for GIF 2]([URL_of_GIF_2](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70))
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3634302f666f726d61743a776562702f312a636e6f31755f474f62326c4175544d6d472d653134672e676966](https://github.com/user-attachments/assets/01004963-ef63-4e47-856b-6c0464d06354)  ![ezgif-6f200f6e562577](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70) <br>
 
 
 ☯️ Quantum Computing Dev. <br>
