@@ -16,8 +16,8 @@ Brief introduction about me: I am a- <br>
 • 🧑‍🤝‍🧑 I am looking to collaborate on quantum repositories exploring different approaches of quantum computing. <br>
 • 🫱🏻‍🫲🏻 I’m looking for help with Quantum Computing, Quantum Optics and Quantum Teleportation Research Internships and Projects. <br>
 • 🧠 Discuss with me about Physics, I love that. <br>
-• 📫 How to reach me varunrathoreonwork@gmail.com.
-📄 View my resume [here](https://drive.google.com/file/d/1DvLBJda6SRnfgCO8FGW71A9nZ2YfWm4G/view?usp=sharing)
+• 📫 How to reach me varunrathoreonwork@gmail.com. <br>
+• 📄 View my resume [here](https://drive.google.com/file/d/1DvLBJda6SRnfgCO8FGW71A9nZ2YfWm4G/view?usp=sharing)
 <br>
 I have YouTube channel as well as an Instagram page in which I share content about related to Physics, Quantum Computing and many more. <br>
 Here are my handles: <br>
