@@ -1,6 +1,6 @@
 # Hii 👋🏻, I am Varun Rathore- <br>
 
-## Quantum Algorithm Developer Intern at **EGREEN QUANTA LLM** <br>
+## Quantum Algorithm Developer Intern at **EGREEN QUANTA (QRACE)** <br>
 
 ![ezgif-6f200f6e562577](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70) <br>
 
@@ -17,7 +17,7 @@ Brief introduction about me: I am a- <br>
 • 🫱🏻‍🫲🏻 I’m looking for help with Quantum Computing, Quantum Optics and Quantum Teleportation Research Internships and Projects. <br>
 • 🧠 Discuss with me about Physics, I love that. <br>
 • 📫 How to reach me varunrathoreonwork@gmail.com. <br>
-• 📄 View my resume [here](https://drive.google.com/file/d/1DvLBJda6SRnfgCO8FGW71A9nZ2YfWm4G/view?usp=sharing)
+• 📄 View my resume [here](https://drive.google.com/file/d/11UxOPwepXemQ47jXcgzQZNVybBVTyQVC/view?usp=sharing)
 <br>
 <br>
 I have [YouTube channel](https://www.youtube.com/channel/UCJjtofyRDijfGnczXKHRIcA) as well as an [Instagram page](https://www.instagram.com/cosmic.caffe/) in which I share content about related to Physics, Quantum Computing and many more. <br>
@@ -32,8 +32,10 @@ Here are my handles: <br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@varuunn_137) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varun-rathore-623579284/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/VarunRathore137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@cosmic.caffee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunrathore7067@gmail.com) 
 
 # 💻 Tech Stack:<br>
-**QISKIT**, **PENNYLANE**,
+<img width="220" height="70" alt="Qiskit_logo" src="https://github.com/user-attachments/assets/6cd7925e-de88-4dd6-a807-9a3996aa3056" />
 
+<img width="240" height="65" alt="PennyLane_logo" src="https://github.com/user-attachments/assets/59b40516-bda9-4e82-85c5-e749781d12fe" />
+<img width="125" height="60" alt="Q#_logo" src="https://github.com/user-attachments/assets/048df5d4-0662-4ecc-9924-9a9cb349ac35" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
