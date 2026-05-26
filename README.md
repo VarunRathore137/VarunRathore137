@@ -42,9 +42,6 @@ Quantum Algorithm Dev:
 ![](https://streak-stats.demolab.com/?user=VarunRathore137&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VarunRathore137&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VarunRathore137&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
