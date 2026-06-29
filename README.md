@@ -1,6 +1,6 @@
 # Hi, I am Varun Rathore - <br>
 
-## AI/ML Engineer & Backend Specialist | Ex-Quantum Algorithm Developer at Egreen Quanta & NIT Delhi (QRACE)** <br>
+## AI/ML Engineer & Backend Specialist | Ex-Quantum Algorithm Developer at Egreen Quanta & NIT Delhi (QRACE) <br>
 
 ![ezgif-6f200f6e562577](https://github.com/user-attachments/assets/58f0660f-4406-41bf-926a-806f8ec1ac70) <br>
 Brief introduction about me: I am a- <br>
